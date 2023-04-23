@@ -30,7 +30,7 @@ For each new post, the list will be updated.
 
 ### Entity-Relationship Diagram
 
-![ERD !](/public/images/erd.png)
+![ERD ](/public/images/erd.png)
 
 ### Database
 
